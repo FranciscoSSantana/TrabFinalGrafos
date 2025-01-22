@@ -12,6 +12,12 @@ class Grafo:
         self.listaAdjacencia[vert1].append(vert2)
         self.listaAdjacencia[vert2].append(vert1)
     
+    def excluiAresta(self, vert1: int, vert2: int):
+        if vert1 in self.listaAdjacencia and vert2 in self.listaAdjacencia[vert1]:
+            self.listaAdjacencia[vert1].remove(vert2)
+        if vert2 in self.listaAdjacencia and vert1 in self.listaAdjacencia[vert2]:
+            self.listaAdjacencia[vert2].remove(vert1)
+    
     def criaGrafo(self, arestas: list[(int, int)]):
         for vert1, vert2 in arestas:
             self.adicionaAresta(vert1, vert2)
@@ -57,14 +63,21 @@ def intersecaoPasseiosAleatorios(grafo: Grafo, verticeInicial: int, numPasseios:
     return frequenciaVertices
 
 # Recomendações
-def recomenda(grafo: Grafo, verticeInicial: int, numPasseios: int, comprimento: int, numRecomendacoes: int, verticesAExcluir: list[int] = []) -> list[int]:
+def recomenda(grafo: Grafo, verticeInicial: int, numPasseios: int, comprimento: int, numRecomendacoes: int, verticesAExcluir: list[int] = []):
     
     frequenciaVertices = intersecaoPasseiosAleatorios(grafo, verticeInicial, numPasseios, comprimento)
     recomendacoes = [
         (vertice, frequencia) for vertice, frequencia in frequenciaVertices.items() if vertice not in verticesAExcluir
     ]
     recomendacoes.sort(key=lambda x: x[1], reverse=True)  # Ordenar por frequência
-    return recomendacoes[:numRecomendacoes]
+    recomendacoes = recomendacoes[:numRecomendacoes]
+    usuarios = []
+    pontuacoes = []
+    for usuario, pontuacao in recomendacoes:
+        usuarios.append(usuario)
+        pontuacoes.append(pontuacao)
+    
+    return usuarios, pontuacoes
 
 # Exemplo de Uso
 def main():
@@ -83,11 +96,11 @@ def main():
     recomendacoesAExcluir = grafo.vizinhos(verticeInicial)
     recomendacoesAExcluir.append(verticeInicial)
     
-    recomendacoes = recomenda(grafo, verticeInicial, numPasseios, comprimentoPasseios, numRecomendacoes, recomendacoesAExcluir)
+    usuariosRecomendados, pontuacaoUsuarios = recomenda(grafo, verticeInicial, numPasseios, comprimentoPasseios, numRecomendacoes, recomendacoesAExcluir)
     
     print("\nRecomendações baseadas em interseções de passeios aleatórios:")
-    for vertice, frequencia in recomendacoes:
-        print(f"Usuário: {vertice}, Pontuação: {frequencia}")
+    for i in range(numRecomendacoes):
+        print(f"Usuário: {usuariosRecomendados[i]}, Pontuação: {pontuacaoUsuarios[i]}")
     print()
 
 if __name__ == "__main__":
