@@ -1,0 +1,28 @@
+Q = numPasseios = 5000
+W = comprimentoPasseios = 5 
+X = numRecomendacoes = 10
+Y = numUsuarios = 500
+Z = Prefixo para mais de um criterio alterado
+
+Q0 = 100
+Q1 = 500
+Q2 = 1000
+Q3 = 5000
+Q4 = 10000
+Q5 = 50000
+
+W0 = 2
+W1 = 5
+W2 = 10
+W3 = 15
+W4 = 20
+
+X0 = 3
+X1 = 5
+X2 = 10
+X3 = 15
+X4 = 20
+
+Y1 = 500
+Y2 = 1000
+Y3 = 2000

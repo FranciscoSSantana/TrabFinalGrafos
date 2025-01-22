@@ -1,0 +1,2010 @@
+Parametros: 
+Numero de passeios por usuario: 5000
+Comprimento dos passeios: 15
+Numero de Recomendacoes: 10
+Numero de Usuarios: 500
+
+Usuario: 45553
+Tempo de Execucao: 0.49257564544677734
+Precision: 0.6 // Recall: 0.6666666666666666 // F1-Score: 0.631578947368421
+
+Usuario: 13532
+Tempo de Execucao: 0.23613572120666504
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 63013
+Tempo de Execucao: 0.19451427459716797
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 16968
+Tempo de Execucao: 0.31448864936828613
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 2678
+Tempo de Execucao: 0.44333958625793457
+Precision: 0.1 // Recall: 0.058823529411764705 // F1-Score: 0.07407407407407408
+
+Usuario: 10858
+Tempo de Execucao: 0.3009817600250244
+Precision: 0.5 // Recall: 0.625 // F1-Score: 0.5555555555555556
+
+Usuario: 53113
+Tempo de Execucao: 0.2837657928466797
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 29186
+Tempo de Execucao: 0.37850308418273926
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 43299
+Tempo de Execucao: 0.3065309524536133
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 62025
+Tempo de Execucao: 0.12566041946411133
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 13192
+Tempo de Execucao: 0.4241602420806885
+Precision: 0.7 // Recall: 0.5 // F1-Score: 0.5833333333333334
+
+Usuario: 37580
+Tempo de Execucao: 0.3492431640625
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 38288
+Tempo de Execucao: 0.30529332160949707
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 47590
+Tempo de Execucao: 0.2868540287017822
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 43336
+Tempo de Execucao: 0.30928635597229004
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 8848
+Tempo de Execucao: 0.3923454284667969
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 4779
+Tempo de Execucao: 0.3043332099914551
+Precision: 0.3 // Recall: 0.375 // F1-Score: 0.33333333333333326
+
+Usuario: 5313
+Tempo de Execucao: 0.29485297203063965
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 50136
+Tempo de Execucao: 0.2919301986694336
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 54091
+Tempo de Execucao: 0.26413464546203613
+Precision: 0.4 // Recall: 1.0 // F1-Score: 0.5714285714285715
+
+Usuario: 11297
+Tempo de Execucao: 0.2426295280456543
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5333
+Tempo de Execucao: 0.35043859481811523
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 36067
+Tempo de Execucao: 0.23631525039672852
+Precision: 0.5 // Recall: 0.7142857142857143 // F1-Score: 0.588235294117647
+
+Usuario: 11524
+Tempo de Execucao: 0.45917367935180664
+Precision: 0.2 // Recall: 0.06666666666666667 // F1-Score: 0.1
+
+Usuario: 60830
+Tempo de Execucao: 0.4059934616088867
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 13397
+Tempo de Execucao: 0.33071398735046387
+Precision: 0.6 // Recall: 0.5 // F1-Score: 0.5454545454545454
+
+Usuario: 7905
+Tempo de Execucao: 0.4300220012664795
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 10896
+Tempo de Execucao: 0.4721946716308594
+Precision: 0.2 // Recall: 0.043478260869565216 // F1-Score: 0.07142857142857142
+
+Usuario: 5566
+Tempo de Execucao: 0.3901865482330322
+Precision: 0.1 // Recall: 0.06666666666666667 // F1-Score: 0.08
+
+Usuario: 47571
+Tempo de Execucao: 0.3811182975769043
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 33753
+Tempo de Execucao: 0.28241991996765137
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 7586
+Tempo de Execucao: 0.4927237033843994
+Precision: 0.1 // Recall: 0.02 // F1-Score: 0.03333333333333333
+
+Usuario: 3407
+Tempo de Execucao: 0.31516480445861816
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 48155
+Tempo de Execucao: 0.22014260292053223
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 59074
+Tempo de Execucao: 0.26201438903808594
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 13101
+Tempo de Execucao: 0.3236510753631592
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 292
+Tempo de Execucao: 0.3592712879180908
+Precision: 0.3 // Recall: 0.25 // F1-Score: 0.2727272727272727
+
+Usuario: 45061
+Tempo de Execucao: 0.44036436080932617
+Precision: 0.4 // Recall: 0.8 // F1-Score: 0.5333333333333333
+
+Usuario: 8695
+Tempo de Execucao: 0.5666706562042236
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 19357
+Tempo de Execucao: 0.3381786346435547
+Precision: 0.3 // Recall: 0.375 // F1-Score: 0.33333333333333326
+
+Usuario: 33562
+Tempo de Execucao: 0.37075138092041016
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 6614
+Tempo de Execucao: 0.3996586799621582
+Precision: 0.3 // Recall: 0.375 // F1-Score: 0.33333333333333326
+
+Usuario: 54062
+Tempo de Execucao: 0.21394085884094238
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 1159
+Tempo de Execucao: 0.27603745460510254
+Precision: 0.5 // Recall: 0.7142857142857143 // F1-Score: 0.588235294117647
+
+Usuario: 51691
+Tempo de Execucao: 0.2639169692993164
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 36973
+Tempo de Execucao: 0.4319331645965576
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 24388
+Tempo de Execucao: 0.3100414276123047
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 30428
+Tempo de Execucao: 0.3125336170196533
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 44325
+Tempo de Execucao: 0.22601842880249023
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 17553
+Tempo de Execucao: 0.32504773139953613
+Precision: 0.1 // Recall: 0.1111111111111111 // F1-Score: 0.10526315789473685
+
+Usuario: 30096
+Tempo de Execucao: 0.42807459831237793
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 34121
+Tempo de Execucao: 0.35568952560424805
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 18083
+Tempo de Execucao: 0.3448219299316406
+Precision: 0.3 // Recall: 0.6 // F1-Score: 0.4
+
+Usuario: 55683
+Tempo de Execucao: 0.3146498203277588
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 15981
+Tempo de Execucao: 0.44312453269958496
+Precision: 0.7 // Recall: 0.28 // F1-Score: 0.4
+
+Usuario: 17943
+Tempo de Execucao: 0.3193838596343994
+Precision: 0.3 // Recall: 0.5 // F1-Score: 0.37499999999999994
+
+Usuario: 4792
+Tempo de Execucao: 0.37767982482910156
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 23328
+Tempo de Execucao: 0.32395339012145996
+Precision: 0.2 // Recall: 0.5 // F1-Score: 0.28571428571428575
+
+Usuario: 13948
+Tempo de Execucao: 0.347015380859375
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 25130
+Tempo de Execucao: 0.4570600986480713
+Precision: 0.4 // Recall: 0.125 // F1-Score: 0.19047619047619047
+
+Usuario: 34974
+Tempo de Execucao: 0.4267551898956299
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 59129
+Tempo de Execucao: 0.20231413841247559
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 44885
+Tempo de Execucao: 0.4085228443145752
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 24964
+Tempo de Execucao: 0.25782155990600586
+Precision: 0.2 // Recall: 0.4 // F1-Score: 0.26666666666666666
+
+Usuario: 34902
+Tempo de Execucao: 0.2693295478820801
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 12505
+Tempo de Execucao: 0.31402063369750977
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 29137
+Tempo de Execucao: 0.37902021408081055
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 58708
+Tempo de Execucao: 0.40801405906677246
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5583
+Tempo de Execucao: 0.4322986602783203
+Precision: 0.1 // Recall: 0.05 // F1-Score: 0.06666666666666667
+
+Usuario: 45006
+Tempo de Execucao: 0.2732381820678711
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 48380
+Tempo de Execucao: 0.25782203674316406
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 1873
+Tempo de Execucao: 0.3984866142272949
+Precision: 0.1 // Recall: 0.1111111111111111 // F1-Score: 0.10526315789473685
+
+Usuario: 300
+Tempo de Execucao: 0.2897372245788574
+Precision: 0.4 // Recall: 0.8 // F1-Score: 0.5333333333333333
+
+Usuario: 21388
+Tempo de Execucao: 0.3353257179260254
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 31205
+Tempo de Execucao: 0.47765612602233887
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 3328
+Tempo de Execucao: 0.23115158081054688
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 60694
+Tempo de Execucao: 0.28821587562561035
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 9056
+Tempo de Execucao: 0.4293513298034668
+Precision: 0.4 // Recall: 0.12903225806451613 // F1-Score: 0.1951219512195122
+
+Usuario: 39905
+Tempo de Execucao: 0.45965147018432617
+Precision: 0.4 // Recall: 0.16666666666666666 // F1-Score: 0.23529411764705882
+
+Usuario: 38337
+Tempo de Execucao: 0.34116125106811523
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 26832
+Tempo de Execucao: 0.4182088375091553
+Precision: 0.2 // Recall: 0.08695652173913043 // F1-Score: 0.12121212121212122
+
+Usuario: 39861
+Tempo de Execucao: 0.3378870487213135
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 38493
+Tempo de Execucao: 0.37476491928100586
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 33518
+Tempo de Execucao: 0.25161051750183105
+Precision: 0.2 // Recall: 0.5 // F1-Score: 0.28571428571428575
+
+Usuario: 38405
+Tempo de Execucao: 0.2917182445526123
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 26205
+Tempo de Execucao: 0.2989017963409424
+Precision: 0.3 // Recall: 0.75 // F1-Score: 0.4285714285714285
+
+Usuario: 3727
+Tempo de Execucao: 0.5187697410583496
+Precision: 0.2 // Recall: 0.034482758620689655 // F1-Score: 0.0588235294117647
+
+Usuario: 27776
+Tempo de Execucao: 0.25402021408081055
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 25261
+Tempo de Execucao: 0.462587833404541
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 48803
+Tempo de Execucao: 0.17275309562683105
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 39581
+Tempo de Execucao: 0.3457198143005371
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 51364
+Tempo de Execucao: 0.20401406288146973
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 57046
+Tempo de Execucao: 0.27000927925109863
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 10769
+Tempo de Execucao: 0.3487966060638428
+Precision: 0.3 // Recall: 0.375 // F1-Score: 0.33333333333333326
+
+Usuario: 29142
+Tempo de Execucao: 0.48586297035217285
+Precision: 0.7 // Recall: 0.25925925925925924 // F1-Score: 0.37837837837837834
+
+Usuario: 54228
+Tempo de Execucao: 0.23287224769592285
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 242
+Tempo de Execucao: 0.3271169662475586
+Precision: 0.4 // Recall: 0.16666666666666666 // F1-Score: 0.23529411764705882
+
+Usuario: 53705
+Tempo de Execucao: 0.26247382164001465
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5211
+Tempo de Execucao: 0.36413145065307617
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 4950
+Tempo de Execucao: 0.387958288192749
+Precision: 0.3 // Recall: 0.2727272727272727 // F1-Score: 0.28571428571428564
+
+Usuario: 43348
+Tempo de Execucao: 0.42184925079345703
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 4379
+Tempo de Execucao: 0.38994526863098145
+Precision: 0.3 // Recall: 0.2727272727272727 // F1-Score: 0.28571428571428564
+
+Usuario: 49662
+Tempo de Execucao: 0.2813889980316162
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 55005
+Tempo de Execucao: 0.33240771293640137
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 12717
+Tempo de Execucao: 0.28318119049072266
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 59274
+Tempo de Execucao: 0.1476583480834961
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 24791
+Tempo de Execucao: 0.35245656967163086
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 1831
+Tempo de Execucao: 0.3040778636932373
+Precision: 0.1 // Recall: 0.125 // F1-Score: 0.11111111111111112
+
+Usuario: 5066
+Tempo de Execucao: 0.3868985176086426
+Precision: 0.2 // Recall: 0.16666666666666666 // F1-Score: 0.1818181818181818
+
+Usuario: 9400
+Tempo de Execucao: 0.30977725982666016
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 13286
+Tempo de Execucao: 0.3467717170715332
+Precision: 0.6 // Recall: 0.35294117647058826 // F1-Score: 0.4444444444444445
+
+Usuario: 13921
+Tempo de Execucao: 0.4169797897338867
+Precision: 0.1 // Recall: 0.09090909090909091 // F1-Score: 0.09523809523809525
+
+Usuario: 10562
+Tempo de Execucao: 0.29773473739624023
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 20340
+Tempo de Execucao: 0.4092447757720947
+Precision: 0.2 // Recall: 0.2857142857142857 // F1-Score: 0.23529411764705882
+
+Usuario: 21565
+Tempo de Execucao: 0.33940768241882324
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 2826
+Tempo de Execucao: 0.26636314392089844
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 45278
+Tempo de Execucao: 0.20797991752624512
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 6234
+Tempo de Execucao: 0.3413407802581787
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 18699
+Tempo de Execucao: 0.3792836666107178
+Precision: 0.4 // Recall: 0.36363636363636365 // F1-Score: 0.380952380952381
+
+Usuario: 12014
+Tempo de Execucao: 0.36566996574401855
+Precision: 0.2 // Recall: 0.13333333333333333 // F1-Score: 0.16
+
+Usuario: 2926
+Tempo de Execucao: 0.3492293357849121
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 20814
+Tempo de Execucao: 0.3690652847290039
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 46803
+Tempo de Execucao: 0.3350639343261719
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 41284
+Tempo de Execucao: 0.39635133743286133
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 3321
+Tempo de Execucao: 0.3078615665435791
+Precision: 0.4 // Recall: 1.0 // F1-Score: 0.5714285714285715
+
+Usuario: 406
+Tempo de Execucao: 0.42458057403564453
+Precision: 0.4 // Recall: 0.25 // F1-Score: 0.3076923076923077
+
+Usuario: 8305
+Tempo de Execucao: 0.3069169521331787
+Precision: 0.2 // Recall: 0.2 // F1-Score: 0.20000000000000004
+
+Usuario: 6557
+Tempo de Execucao: 0.37258219718933105
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 38709
+Tempo de Execucao: 0.4052925109863281
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 38570
+Tempo de Execucao: 0.2753016948699951
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 3806
+Tempo de Execucao: 0.35766005516052246
+Precision: 0.2 // Recall: 0.2222222222222222 // F1-Score: 0.2105263157894737
+
+Usuario: 21830
+Tempo de Execucao: 0.2831895351409912
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 7303
+Tempo de Execucao: 0.396648645401001
+Precision: 0.2 // Recall: 0.3333333333333333 // F1-Score: 0.25
+
+Usuario: 14524
+Tempo de Execucao: 0.24924492835998535
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 21184
+Tempo de Execucao: 0.34629178047180176
+Precision: 0.6 // Recall: 0.6 // F1-Score: 0.6
+
+Usuario: 24541
+Tempo de Execucao: 0.4741973876953125
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 43274
+Tempo de Execucao: 0.29982995986938477
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 3069
+Tempo de Execucao: 0.3145482540130615
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 34988
+Tempo de Execucao: 0.4330403804779053
+Precision: 0.2 // Recall: 0.4 // F1-Score: 0.26666666666666666
+
+Usuario: 18345
+Tempo de Execucao: 0.31385231018066406
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 42882
+Tempo de Execucao: 0.4180121421813965
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 32442
+Tempo de Execucao: 0.2803535461425781
+Precision: 0.4 // Recall: 0.36363636363636365 // F1-Score: 0.380952380952381
+
+Usuario: 23110
+Tempo de Execucao: 0.3314368724822998
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 39525
+Tempo de Execucao: 0.20494961738586426
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 50711
+Tempo de Execucao: 0.29965806007385254
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 58408
+Tempo de Execucao: 0.14188075065612793
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 659
+Tempo de Execucao: 0.28593897819519043
+Precision: 0.5 // Recall: 0.7142857142857143 // F1-Score: 0.588235294117647
+
+Usuario: 30244
+Tempo de Execucao: 0.35655736923217773
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 1193
+Tempo de Execucao: 0.5011167526245117
+Precision: 0.2 // Recall: 0.037037037037037035 // F1-Score: 0.0625
+
+Usuario: 34666
+Tempo de Execucao: 0.4351999759674072
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 480
+Tempo de Execucao: 0.39116764068603516
+Precision: 0.3 // Recall: 0.1875 // F1-Score: 0.23076923076923075
+
+Usuario: 36525
+Tempo de Execucao: 0.39992761611938477
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 47886
+Tempo de Execucao: 0.2145824432373047
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 49597
+Tempo de Execucao: 0.41033148765563965
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 16782
+Tempo de Execucao: 0.27249860763549805
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 7245
+Tempo de Execucao: 0.3358418941497803
+Precision: 0.2 // Recall: 0.10526315789473684 // F1-Score: 0.13793103448275862
+
+Usuario: 52397
+Tempo de Execucao: 0.20238304138183594
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 10679
+Tempo de Execucao: 0.42784786224365234
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 2570
+Tempo de Execucao: 0.3570408821105957
+Precision: 0.1 // Recall: 0.14285714285714285 // F1-Score: 0.11764705882352941
+
+Usuario: 23778
+Tempo de Execucao: 0.2764604091644287
+Precision: 0.2 // Recall: 0.5 // F1-Score: 0.28571428571428575
+
+Usuario: 43653
+Tempo de Execucao: 0.2287890911102295
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 56939
+Tempo de Execucao: 0.1521453857421875
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 332
+Tempo de Execucao: 0.3144967555999756
+Precision: 0.3 // Recall: 0.6 // F1-Score: 0.4
+
+Usuario: 33688
+Tempo de Execucao: 0.25394439697265625
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 33527
+Tempo de Execucao: 0.32047295570373535
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 40170
+Tempo de Execucao: 0.4206984043121338
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 27394
+Tempo de Execucao: 0.3851625919342041
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 13364
+Tempo de Execucao: 0.37000203132629395
+Precision: 0.2 // Recall: 0.2222222222222222 // F1-Score: 0.2105263157894737
+
+Usuario: 15774
+Tempo de Execucao: 0.3765685558319092
+Precision: 0.3 // Recall: 0.375 // F1-Score: 0.33333333333333326
+
+Usuario: 12506
+Tempo de Execucao: 0.2992086410522461
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 10162
+Tempo de Execucao: 0.42658472061157227
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 54013
+Tempo de Execucao: 0.3829970359802246
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5570
+Tempo de Execucao: 0.4389958381652832
+Precision: 0.3 // Recall: 0.21428571428571427 // F1-Score: 0.25
+
+Usuario: 33568
+Tempo de Execucao: 0.3969564437866211
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 24765
+Tempo de Execucao: 0.4211921691894531
+Precision: 0.3 // Recall: 0.75 // F1-Score: 0.4285714285714285
+
+Usuario: 36815
+Tempo de Execucao: 0.4732329845428467
+Precision: 0.1 // Recall: 0.06666666666666667 // F1-Score: 0.08
+
+Usuario: 678
+Tempo de Execucao: 0.3394458293914795
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 21903
+Tempo de Execucao: 0.2566039562225342
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 22557
+Tempo de Execucao: 0.19830703735351562
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 14001
+Tempo de Execucao: 0.3232412338256836
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 2096
+Tempo de Execucao: 0.3139612674713135
+Precision: 0.2 // Recall: 0.3333333333333333 // F1-Score: 0.25
+
+Usuario: 7260
+Tempo de Execucao: 0.4048471450805664
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 58153
+Tempo de Execucao: 0.015588998794555664
+Precision: 0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 54960
+Tempo de Execucao: 0.0
+Precision: 0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 42394
+Tempo de Execucao: 0.09447407722473145
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 38530
+Tempo de Execucao: 0.360079288482666
+Precision: 0.1 // Recall: 0.05263157894736842 // F1-Score: 0.06896551724137931
+
+Usuario: 2231
+Tempo de Execucao: 0.2642035484313965
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 14128
+Tempo de Execucao: 0.27341198921203613
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 47659
+Tempo de Execucao: 0.39606523513793945
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 7517
+Tempo de Execucao: 0.44566774368286133
+Precision: 0.1 // Recall: 0.05 // F1-Score: 0.06666666666666667
+
+Usuario: 49348
+Tempo de Execucao: 0.42693138122558594
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 39903
+Tempo de Execucao: 0.43980932235717773
+Precision: 0.2 // Recall: 0.1111111111111111 // F1-Score: 0.14285714285714285
+
+Usuario: 35239
+Tempo de Execucao: 0.43971848487854004
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5373
+Tempo de Execucao: 0.3459177017211914
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 1917
+Tempo de Execucao: 0.45664525032043457
+Precision: 0.4 // Recall: 0.19047619047619047 // F1-Score: 0.25806451612903225
+
+Usuario: 8592
+Tempo de Execucao: 0.47858333587646484
+Precision: 0.3 // Recall: 0.12 // F1-Score: 0.17142857142857143
+
+Usuario: 17700
+Tempo de Execucao: 0.25197815895080566
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 58601
+Tempo de Execucao: 0.25957655906677246
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5198
+Tempo de Execucao: 0.3132143020629883
+Precision: 0.1 // Recall: 0.125 // F1-Score: 0.11111111111111112
+
+Usuario: 26221
+Tempo de Execucao: 0.3623850345611572
+Precision: 0.5 // Recall: 0.7142857142857143 // F1-Score: 0.588235294117647
+
+Usuario: 28649
+Tempo de Execucao: 0.25944972038269043
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 19627
+Tempo de Execucao: 0.2607848644256592
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 18544
+Tempo de Execucao: 0.4629497528076172
+Precision: 0.5 // Recall: 0.1282051282051282 // F1-Score: 0.2040816326530612
+
+Usuario: 13490
+Tempo de Execucao: 0.47331786155700684
+Precision: 0.1 // Recall: 0.047619047619047616 // F1-Score: 0.06451612903225806
+
+Usuario: 25392
+Tempo de Execucao: 0.3238956928253174
+Precision: 0.3 // Recall: 0.3333333333333333 // F1-Score: 0.3157894736842105
+
+Usuario: 12206
+Tempo de Execucao: 0.40711188316345215
+Precision: 0.4 // Recall: 0.6666666666666666 // F1-Score: 0.5
+
+Usuario: 24225
+Tempo de Execucao: 0.33853960037231445
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 1779
+Tempo de Execucao: 0.37194085121154785
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 2196
+Tempo de Execucao: 0.36374759674072266
+Precision: 0.4 // Recall: 0.6666666666666666 // F1-Score: 0.5
+
+Usuario: 30938
+Tempo de Execucao: 0.4009068012237549
+Precision: 0.2 // Recall: 0.3333333333333333 // F1-Score: 0.25
+
+Usuario: 19731
+Tempo de Execucao: 0.2192237377166748
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 42783
+Tempo de Execucao: 0.29294705390930176
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 42731
+Tempo de Execucao: 0.31469011306762695
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 34743
+Tempo de Execucao: 0.35965561866760254
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 14525
+Tempo de Execucao: 0.33525681495666504
+Precision: 0.2 // Recall: 0.2 // F1-Score: 0.20000000000000004
+
+Usuario: 53898
+Tempo de Execucao: 0.23577427864074707
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 42087
+Tempo de Execucao: 0.20882773399353027
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 42374
+Tempo de Execucao: 0.4408454895019531
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 6465
+Tempo de Execucao: 0.2932889461517334
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 3716
+Tempo de Execucao: 0.48659753799438477
+Precision: 0.3 // Recall: 0.08571428571428572 // F1-Score: 0.13333333333333333
+
+Usuario: 17013
+Tempo de Execucao: 0.3950371742248535
+Precision: 0.1 // Recall: 0.08333333333333333 // F1-Score: 0.0909090909090909
+
+Usuario: 46838
+Tempo de Execucao: 0.2983565330505371
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 58227
+Tempo de Execucao: 0.2978861331939697
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 8177
+Tempo de Execucao: 0.30741095542907715
+Precision: 0.2 // Recall: 0.25 // F1-Score: 0.22222222222222224
+
+Usuario: 40344
+Tempo de Execucao: 0.11863040924072266
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 46134
+Tempo de Execucao: 0.0925302505493164
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 1989
+Tempo de Execucao: 0.4631805419921875
+Precision: 0.3 // Recall: 0.13043478260869565 // F1-Score: 0.18181818181818182
+
+Usuario: 42117
+Tempo de Execucao: 0.44954729080200195
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 8160
+Tempo de Execucao: 0.3417055606842041
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 54555
+Tempo de Execucao: 0.23725032806396484
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 7588
+Tempo de Execucao: 0.4282371997833252
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 37568
+Tempo de Execucao: 0.4124014377593994
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 5314
+Tempo de Execucao: 0.3265550136566162
+Precision: 0.2 // Recall: 0.18181818181818182 // F1-Score: 0.1904761904761905
+
+Usuario: 22455
+Tempo de Execucao: 0.3855113983154297
+Precision: 0.7 // Recall: 0.6363636363636364 // F1-Score: 0.6666666666666666
+
+Usuario: 50631
+Tempo de Execucao: 0.302687406539917
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 10370
+Tempo de Execucao: 0.28357982635498047
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 34616
+Tempo de Execucao: 0.4908599853515625
+Precision: 0.2 // Recall: 0.14285714285714285 // F1-Score: 0.16666666666666666
+
+Usuario: 26752
+Tempo de Execucao: 0.3124263286590576
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 43138
+Tempo de Execucao: 0.4899139404296875
+Precision: 0.2 // Recall: 0.4 // F1-Score: 0.26666666666666666
+
+Usuario: 37471
+Tempo de Execucao: 0.25146937370300293
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 29419
+Tempo de Execucao: 0.33486032485961914
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 53460
+Tempo de Execucao: 0.26157712936401367
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 17837
+Tempo de Execucao: 0.3396260738372803
+Precision: 0.1 // Recall: 0.1111111111111111 // F1-Score: 0.10526315789473685
+
+Usuario: 19000
+Tempo de Execucao: 0.2210557460784912
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 58928
+Tempo de Execucao: 0.28305482864379883
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 49036
+Tempo de Execucao: 0.28002500534057617
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 19041
+Tempo de Execucao: 0.431926965713501
+Precision: 0.2 // Recall: 0.125 // F1-Score: 0.15384615384615385
+
+Usuario: 41431
+Tempo de Execucao: 0.371793270111084
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 27350
+Tempo de Execucao: 0.33190464973449707
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 7611
+Tempo de Execucao: 0.366344690322876
+Precision: 0.8 // Recall: 0.25806451612903225 // F1-Score: 0.3902439024390244
+
+Usuario: 34238
+Tempo de Execucao: 0.24610495567321777
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 7111
+Tempo de Execucao: 0.5254945755004883
+Precision: 0.6 // Recall: 0.07228915662650602 // F1-Score: 0.12903225806451613
+
+Usuario: 13386
+Tempo de Execucao: 0.28888440132141113
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 47388
+Tempo de Execucao: 0.23144793510437012
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 34683
+Tempo de Execucao: 0.41482090950012207
+Precision: 0.3 // Recall: 0.3333333333333333 // F1-Score: 0.3157894736842105
+
+Usuario: 15651
+Tempo de Execucao: 0.29627227783203125
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 43045
+Tempo de Execucao: 0.34155750274658203
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 37360
+Tempo de Execucao: 0.15910696983337402
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 30788
+Tempo de Execucao: 0.29624080657958984
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 3665
+Tempo de Execucao: 0.4884169101715088
+Precision: 0.3 // Recall: 0.07317073170731707 // F1-Score: 0.11764705882352941
+
+Usuario: 47207
+Tempo de Execucao: 0.3336763381958008
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 16752
+Tempo de Execucao: 0.4821434020996094
+Precision: 0.1 // Recall: 0.041666666666666664 // F1-Score: 0.058823529411764705
+
+Usuario: 430
+Tempo de Execucao: 0.39612913131713867
+Precision: 0.3 // Recall: 0.3333333333333333 // F1-Score: 0.3157894736842105
+
+Usuario: 35732
+Tempo de Execucao: 0.3711826801300049
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 38563
+Tempo de Execucao: 0.4362907409667969
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 36304
+Tempo de Execucao: 0.36490750312805176
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 61479
+Tempo de Execucao: 0.2562294006347656
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 7530
+Tempo de Execucao: 0.4626176357269287
+Precision: 0.4 // Recall: 0.17391304347826086 // F1-Score: 0.24242424242424243
+
+Usuario: 34019
+Tempo de Execucao: 0.4748523235321045
+Precision: 0.1 // Recall: 0.0625 // F1-Score: 0.07692307692307693
+
+Usuario: 17172
+Tempo de Execucao: 0.32274699211120605
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 55764
+Tempo de Execucao: 0.28280067443847656
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 24924
+Tempo de Execucao: 0.43744874000549316
+Precision: 0.2 // Recall: 0.2222222222222222 // F1-Score: 0.2105263157894737
+
+Usuario: 5347
+Tempo de Execucao: 0.3881809711456299
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 9523
+Tempo de Execucao: 0.2671327590942383
+Precision: 0.2 // Recall: 0.4 // F1-Score: 0.26666666666666666
+
+Usuario: 30669
+Tempo de Execucao: 0.3208479881286621
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 7812
+Tempo de Execucao: 0.3740956783294678
+Precision: 0.1 // Recall: 0.09090909090909091 // F1-Score: 0.09523809523809525
+
+Usuario: 6339
+Tempo de Execucao: 0.35892534255981445
+Precision: 0.2 // Recall: 0.18181818181818182 // F1-Score: 0.1904761904761905
+
+Usuario: 19792
+Tempo de Execucao: 0.38486552238464355
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 31988
+Tempo de Execucao: 0.25825953483581543
+Precision: 0.3 // Recall: 0.375 // F1-Score: 0.33333333333333326
+
+Usuario: 38737
+Tempo de Execucao: 0.2725865840911865
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 45913
+Tempo de Execucao: 0.20197153091430664
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 30787
+Tempo de Execucao: 0.2731320858001709
+Precision: 0.9 // Recall: 0.6428571428571429 // F1-Score: 0.75
+
+Usuario: 52288
+Tempo de Execucao: 0.2545175552368164
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 33105
+Tempo de Execucao: 0.3144972324371338
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 50122
+Tempo de Execucao: 0.14720940589904785
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 42909
+Tempo de Execucao: 0.27550721168518066
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 58789
+Tempo de Execucao: 0.031249284744262695
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 54874
+Tempo de Execucao: 0.40468883514404297
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 13610
+Tempo de Execucao: 0.32937002182006836
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 35682
+Tempo de Execucao: 0.24843931198120117
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 15313
+Tempo de Execucao: 0.42231273651123047
+Precision: 0.1 // Recall: 0.14285714285714285 // F1-Score: 0.11764705882352941
+
+Usuario: 25416
+Tempo de Execucao: 0.45922303199768066
+Precision: 0.7 // Recall: 0.25 // F1-Score: 0.3684210526315789
+
+Usuario: 9700
+Tempo de Execucao: 0.39323949813842773
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 14466
+Tempo de Execucao: 0.30423688888549805
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 21415
+Tempo de Execucao: 0.31633591651916504
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 34966
+Tempo de Execucao: 0.4087824821472168
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 43163
+Tempo de Execucao: 0.3131978511810303
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 45487
+Tempo de Execucao: 0.2394266128540039
+Precision: 0.2 // Recall: 0.5 // F1-Score: 0.28571428571428575
+
+Usuario: 867
+Tempo de Execucao: 0.31269216537475586
+Precision: 0.6 // Recall: 0.3333333333333333 // F1-Score: 0.42857142857142855
+
+Usuario: 47769
+Tempo de Execucao: 0.19424939155578613
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 18942
+Tempo de Execucao: 0.32387852668762207
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 20448
+Tempo de Execucao: 0.28259921073913574
+Precision: 0.1 // Recall: 0.1 // F1-Score: 0.10000000000000002
+
+Usuario: 57144
+Tempo de Execucao: 0.1746673583984375
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 56394
+Tempo de Execucao: 0.28720593452453613
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 51012
+Tempo de Execucao: 0.2943854331970215
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 24722
+Tempo de Execucao: 0.2842280864715576
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 61453
+Tempo de Execucao: 0.22568511962890625
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 35260
+Tempo de Execucao: 0.34810328483581543
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 13989
+Tempo de Execucao: 0.4311234951019287
+Precision: 0.4 // Recall: 0.2 // F1-Score: 0.26666666666666666
+
+Usuario: 32285
+Tempo de Execucao: 0.33733677864074707
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 31921
+Tempo de Execucao: 0.3008842468261719
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 49113
+Tempo de Execucao: 0.22856903076171875
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 13343
+Tempo de Execucao: 0.14108943939208984
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 3512
+Tempo de Execucao: 0.34055447578430176
+Precision: 0.1 // Recall: 0.14285714285714285 // F1-Score: 0.11764705882352941
+
+Usuario: 18366
+Tempo de Execucao: 0.35842442512512207
+Precision: 0.4 // Recall: 0.26666666666666666 // F1-Score: 0.32
+
+Usuario: 30019
+Tempo de Execucao: 0.33853840827941895
+Precision: 0.4 // Recall: 0.8 // F1-Score: 0.5333333333333333
+
+Usuario: 20096
+Tempo de Execucao: 0.4232773780822754
+Precision: 0.2 // Recall: 0.25 // F1-Score: 0.22222222222222224
+
+Usuario: 20372
+Tempo de Execucao: 0.26178932189941406
+Precision: 0.3 // Recall: 0.42857142857142855 // F1-Score: 0.3529411764705882
+
+Usuario: 31070
+Tempo de Execucao: 0.4646339416503906
+Precision: 0.3 // Recall: 0.75 // F1-Score: 0.4285714285714285
+
+Usuario: 35417
+Tempo de Execucao: 0.3327474594116211
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 10238
+Tempo de Execucao: 0.3753368854522705
+Precision: 0.4 // Recall: 0.5714285714285714 // F1-Score: 0.47058823529411764
+
+Usuario: 54522
+Tempo de Execucao: 0.21951532363891602
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 17810
+Tempo de Execucao: 0.34178781509399414
+Precision: 0.4 // Recall: 1.0 // F1-Score: 0.5714285714285715
+
+Usuario: 45522
+Tempo de Execucao: 0.26642704010009766
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 6559
+Tempo de Execucao: 0.33550333976745605
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5453
+Tempo de Execucao: 0.4235568046569824
+Precision: 0.2 // Recall: 0.13333333333333333 // F1-Score: 0.16
+
+Usuario: 11987
+Tempo de Execucao: 0.2989208698272705
+Precision: 0.3 // Recall: 0.75 // F1-Score: 0.4285714285714285
+
+Usuario: 11680
+Tempo de Execucao: 0.4856686592102051
+Precision: 0.3 // Recall: 0.10714285714285714 // F1-Score: 0.15789473684210525
+
+Usuario: 26139
+Tempo de Execucao: 0.39630985260009766
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 46858
+Tempo de Execucao: 0.30529069900512695
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 42981
+Tempo de Execucao: 0.19235444068908691
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 16182
+Tempo de Execucao: 0.42881250381469727
+Precision: 0.2 // Recall: 0.2222222222222222 // F1-Score: 0.2105263157894737
+
+Usuario: 6159
+Tempo de Execucao: 0.3384866714477539
+Precision: 0.2 // Recall: 0.2857142857142857 // F1-Score: 0.23529411764705882
+
+Usuario: 1499
+Tempo de Execucao: 0.3549227714538574
+Precision: 0.6 // Recall: 0.375 // F1-Score: 0.4615384615384615
+
+Usuario: 20460
+Tempo de Execucao: 0.29735422134399414
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 33989
+Tempo de Execucao: 0.38542962074279785
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 34806
+Tempo de Execucao: 0.24367594718933105
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 23038
+Tempo de Execucao: 0.351945161819458
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 1385
+Tempo de Execucao: 0.41259002685546875
+Precision: 0.3 // Recall: 0.25 // F1-Score: 0.2727272727272727
+
+Usuario: 56018
+Tempo de Execucao: 0.29619503021240234
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 19522
+Tempo de Execucao: 0.42662596702575684
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 15407
+Tempo de Execucao: 0.24448251724243164
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 15492
+Tempo de Execucao: 0.28079915046691895
+Precision: 0.2 // Recall: 0.2857142857142857 // F1-Score: 0.23529411764705882
+
+Usuario: 20833
+Tempo de Execucao: 0.4380378723144531
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 49799
+Tempo de Execucao: 0.3808431625366211
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 27781
+Tempo de Execucao: 0.34456610679626465
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 28907
+Tempo de Execucao: 0.43646693229675293
+Precision: 0.2 // Recall: 0.18181818181818182 // F1-Score: 0.1904761904761905
+
+Usuario: 18318
+Tempo de Execucao: 0.25585484504699707
+Precision: 0.1 // Recall: 0.14285714285714285 // F1-Score: 0.11764705882352941
+
+Usuario: 43970
+Tempo de Execucao: 0.3135714530944824
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 49633
+Tempo de Execucao: 0.4268462657928467
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 46670
+Tempo de Execucao: 0.2652137279510498
+Precision: 0.1 // Recall: 0.1111111111111111 // F1-Score: 0.10526315789473685
+
+Usuario: 61989
+Tempo de Execucao: 0.18796944618225098
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 48182
+Tempo de Execucao: 0.2541823387145996
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 36484
+Tempo de Execucao: 0.38586854934692383
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 23618
+Tempo de Execucao: 0.2509579658508301
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 2485
+Tempo de Execucao: 0.39272284507751465
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 2042
+Tempo de Execucao: 0.333085298538208
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 56824
+Tempo de Execucao: 0.44617676734924316
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 10665
+Tempo de Execucao: 0.2822458744049072
+Precision: 0.3 // Recall: 0.6 // F1-Score: 0.4
+
+Usuario: 44301
+Tempo de Execucao: 0.22384095191955566
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 1968
+Tempo de Execucao: 0.3907768726348877
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 180
+Tempo de Execucao: 0.22563552856445312
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 24108
+Tempo de Execucao: 0.29294490814208984
+Precision: 0.3 // Recall: 1.0 // F1-Score: 0.4615384615384615
+
+Usuario: 60037
+Tempo de Execucao: 0.22399425506591797
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 57329
+Tempo de Execucao: 0.45091724395751953
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 25459
+Tempo de Execucao: 0.4511876106262207
+Precision: 0.7 // Recall: 0.2692307692307692 // F1-Score: 0.3888888888888889
+
+Usuario: 58287
+Tempo de Execucao: 0.22053766250610352
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 21337
+Tempo de Execucao: 0.36701154708862305
+Precision: 0.3 // Recall: 0.75 // F1-Score: 0.4285714285714285
+
+Usuario: 21391
+Tempo de Execucao: 0.3580467700958252
+Precision: 0.2 // Recall: 0.15384615384615385 // F1-Score: 0.17391304347826086
+
+Usuario: 14943
+Tempo de Execucao: 0.4364593029022217
+Precision: 0.1 // Recall: 0.125 // F1-Score: 0.11111111111111112
+
+Usuario: 32668
+Tempo de Execucao: 0.4807548522949219
+Precision: 0.6 // Recall: 0.25 // F1-Score: 0.35294117647058826
+
+Usuario: 14603
+Tempo de Execucao: 0.3020615577697754
+Precision: 0.5 // Recall: 0.8333333333333334 // F1-Score: 0.625
+
+Usuario: 13659
+Tempo de Execucao: 0.24723029136657715
+Precision: 0.2 // Recall: 0.5 // F1-Score: 0.28571428571428575
+
+Usuario: 17541
+Tempo de Execucao: 0.28253817558288574
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 41805
+Tempo de Execucao: 0.3748314380645752
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 14257
+Tempo de Execucao: 0.4901118278503418
+Precision: 0.4 // Recall: 0.125 // F1-Score: 0.19047619047619047
+
+Usuario: 6197
+Tempo de Execucao: 0.4260275363922119
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 30089
+Tempo de Execucao: 0.3140256404876709
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 14196
+Tempo de Execucao: 0.3597853183746338
+Precision: 0.1 // Recall: 0.1 // F1-Score: 0.10000000000000002
+
+Usuario: 46181
+Tempo de Execucao: 0.22010564804077148
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 53326
+Tempo de Execucao: 0.36275768280029297
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 5572
+Tempo de Execucao: 0.33193087577819824
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 28902
+Tempo de Execucao: 0.42649006843566895
+Precision: 0.3 // Recall: 0.15789473684210525 // F1-Score: 0.20689655172413793
+
+Usuario: 59109
+Tempo de Execucao: 0.2803823947906494
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 22376
+Tempo de Execucao: 0.39414453506469727
+Precision: 0.4 // Recall: 0.5 // F1-Score: 0.4444444444444445
+
+Usuario: 10718
+Tempo de Execucao: 0.3954625129699707
+Precision: 0.4 // Recall: 0.5714285714285714 // F1-Score: 0.47058823529411764
+
+Usuario: 41510
+Tempo de Execucao: 0.23306512832641602
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 55226
+Tempo de Execucao: 0.16545653343200684
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 619
+Tempo de Execucao: 0.34600090980529785
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 117
+Tempo de Execucao: 0.4560689926147461
+Precision: 0.4 // Recall: 0.17391304347826086 // F1-Score: 0.24242424242424243
+
+Usuario: 31216
+Tempo de Execucao: 0.47438621520996094
+Precision: 0.1 // Recall: 0.1 // F1-Score: 0.10000000000000002
+
+Usuario: 44768
+Tempo de Execucao: 0.46585965156555176
+Precision: 0.5 // Recall: 0.7142857142857143 // F1-Score: 0.588235294117647
+
+Usuario: 14308
+Tempo de Execucao: 0.31740665435791016
+Precision: 0.1 // Recall: 0.125 // F1-Score: 0.11111111111111112
+
+Usuario: 1384
+Tempo de Execucao: 0.3917388916015625
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 24730
+Tempo de Execucao: 0.4279773235321045
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 58942
+Tempo de Execucao: 0.0
+Precision: 0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 14374
+Tempo de Execucao: 0.41565895080566406
+Precision: 0.2 // Recall: 0.15384615384615385 // F1-Score: 0.17391304347826086
+
+Usuario: 34199
+Tempo de Execucao: 0.31073594093322754
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 10879
+Tempo de Execucao: 0.3415224552154541
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 26401
+Tempo de Execucao: 0.36934757232666016
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 52659
+Tempo de Execucao: 0.2672855854034424
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 39426
+Tempo de Execucao: 0.41710877418518066
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 11915
+Tempo de Execucao: 0.3852248191833496
+Precision: 0.2 // Recall: 0.18181818181818182 // F1-Score: 0.1904761904761905
+
+Usuario: 41398
+Tempo de Execucao: 0.27550792694091797
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 29420
+Tempo de Execucao: 0.31650543212890625
+Precision: 0.2 // Recall: 0.6666666666666666 // F1-Score: 0.30769230769230765
+
+Usuario: 24390
+Tempo de Execucao: 0.29463720321655273
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 8299
+Tempo de Execucao: 0.33150267601013184
+Precision: 0.3 // Recall: 0.6 // F1-Score: 0.4
+
+Usuario: 18231
+Tempo de Execucao: 0.3145484924316406
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 1343
+Tempo de Execucao: 0.30000805854797363
+Precision: 0.2 // Recall: 0.2222222222222222 // F1-Score: 0.2105263157894737
+
+Usuario: 53062
+Tempo de Execucao: 0.0
+Precision: 0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 42642
+Tempo de Execucao: 0.33574676513671875
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 31727
+Tempo de Execucao: 0.3874030113220215
+Precision: 0.2 // Recall: 0.2857142857142857 // F1-Score: 0.23529411764705882
+
+Usuario: 21313
+Tempo de Execucao: 0.28922581672668457
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 55794
+Tempo de Execucao: 0.31132006645202637
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 3092
+Tempo de Execucao: 0.3102240562438965
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 10136
+Tempo de Execucao: 0.4717071056365967
+Precision: 0.1 // Recall: 0.05 // F1-Score: 0.06666666666666667
+
+Usuario: 16644
+Tempo de Execucao: 0.43610239028930664
+Precision: 0.3 // Recall: 0.21428571428571427 // F1-Score: 0.25
+
+Usuario: 52739
+Tempo de Execucao: 0.29012036323547363
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 33526
+Tempo de Execucao: 0.18880653381347656
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 34265
+Tempo de Execucao: 0.30279111862182617
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 40355
+Tempo de Execucao: 0.40380167961120605
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 59971
+Tempo de Execucao: 0.05613112449645996
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 25697
+Tempo de Execucao: 0.4381234645843506
+Precision: 0.3 // Recall: 0.12 // F1-Score: 0.17142857142857143
+
+Usuario: 21710
+Tempo de Execucao: 0.32886648178100586
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 20707
+Tempo de Execucao: 0.19775819778442383
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 36477
+Tempo de Execucao: 0.3712582588195801
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 16892
+Tempo de Execucao: 0.38129496574401855
+Precision: 0.2 // Recall: 0.2857142857142857 // F1-Score: 0.23529411764705882
+
+Usuario: 42745
+Tempo de Execucao: 0.2461385726928711
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 59884
+Tempo de Execucao: 0.0
+Precision: 0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 29434
+Tempo de Execucao: 0.30844950675964355
+Precision: 0.4 // Recall: 0.3333333333333333 // F1-Score: 0.3636363636363636
+
+Usuario: 56239
+Tempo de Execucao: 0.3976140022277832
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 12623
+Tempo de Execucao: 0.31973862648010254
+Precision: 0.3 // Recall: 0.5 // F1-Score: 0.37499999999999994
+
+Usuario: 6805
+Tempo de Execucao: 0.29394030570983887
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 35238
+Tempo de Execucao: 0.37897753715515137
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 36207
+Tempo de Execucao: 0.3786754608154297
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 10166
+Tempo de Execucao: 0.44932007789611816
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 41482
+Tempo de Execucao: 0.2107713222503662
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 34908
+Tempo de Execucao: 0.26807212829589844
+Precision: 0.3 // Recall: 0.5 // F1-Score: 0.37499999999999994
+
+Usuario: 18686
+Tempo de Execucao: 0.31307196617126465
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 15441
+Tempo de Execucao: 0.3308098316192627
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 62449
+Tempo de Execucao: 0.20047354698181152
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 5910
+Tempo de Execucao: 0.38866615295410156
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 4577
+Tempo de Execucao: 0.31316447257995605
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 28759
+Tempo de Execucao: 0.30090928077697754
+Precision: 0.2 // Recall: 0.4 // F1-Score: 0.26666666666666666
+
+Usuario: 9
+Tempo de Execucao: 0.4050614833831787
+Precision: 0.3 // Recall: 0.061224489795918366 // F1-Score: 0.10169491525423728
+
+Usuario: 28920
+Tempo de Execucao: 0.36501502990722656
+Precision: 0.5 // Recall: 0.22727272727272727 // F1-Score: 0.3125
+
+Usuario: 22370
+Tempo de Execucao: 0.44353389739990234
+Precision: 0.6 // Recall: 0.375 // F1-Score: 0.4615384615384615
+
+Usuario: 58320
+Tempo de Execucao: 0.2358565330505371
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 22298
+Tempo de Execucao: 0.49273061752319336
+Precision: 0.2 // Recall: 0.08333333333333333 // F1-Score: 0.11764705882352941
+
+Usuario: 30000
+Tempo de Execucao: 0.40512776374816895
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 44002
+Tempo de Execucao: 0.2633826732635498
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 37066
+Tempo de Execucao: 0.37555766105651855
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 5826
+Tempo de Execucao: 0.31162524223327637
+Precision: 0.3 // Recall: 1.0 // F1-Score: 0.4615384615384615
+
+Usuario: 33308
+Tempo de Execucao: 0.28326916694641113
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 3903
+Tempo de Execucao: 0.4128696918487549
+Precision: 0.2 // Recall: 0.15384615384615385 // F1-Score: 0.17391304347826086
+
+Usuario: 51238
+Tempo de Execucao: 0.19153785705566406
+Precision: 0.3 // Recall: 1.0 // F1-Score: 0.4615384615384615
+
+Usuario: 5348
+Tempo de Execucao: 0.23627448081970215
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 17274
+Tempo de Execucao: 0.33532166481018066
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 33132
+Tempo de Execucao: 0.36202502250671387
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 19926
+Tempo de Execucao: 0.3770897388458252
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 13425
+Tempo de Execucao: 0.4626295566558838
+Precision: 0.5 // Recall: 0.22727272727272727 // F1-Score: 0.3125
+
+Usuario: 42128
+Tempo de Execucao: 0.4415290355682373
+Precision: 0.3 // Recall: 0.3 // F1-Score: 0.3
+
+Usuario: 3640
+Tempo de Execucao: 0.5097618103027344
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 4804
+Tempo de Execucao: 0.3355708122253418
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 22149
+Tempo de Execucao: 0.47699999809265137
+Precision: 0.5 // Recall: 0.25 // F1-Score: 0.3333333333333333
+
+Usuario: 15020
+Tempo de Execucao: 0.3207736015319824
+Precision: 0.3 // Recall: 0.5 // F1-Score: 0.37499999999999994
+
+Usuario: 59565
+Tempo de Execucao: 0.19450759887695312
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 58360
+Tempo de Execucao: 0.28337597846984863
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 12018
+Tempo de Execucao: 0.3325378894805908
+Precision: 0.1 // Recall: 0.25 // F1-Score: 0.14285714285714288
+
+Usuario: 31416
+Tempo de Execucao: 0.3092689514160156
+Precision: 0.2 // Recall: 0.2857142857142857 // F1-Score: 0.23529411764705882
+
+Usuario: 47134
+Tempo de Execucao: 0.2373661994934082
+Precision: 0.2 // Recall: 1.0 // F1-Score: 0.33333333333333337
+
+Usuario: 29747
+Tempo de Execucao: 0.4121420383453369
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 14335
+Tempo de Execucao: 0.29221153259277344
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 52751
+Tempo de Execucao: 0.14644861221313477
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 16834
+Tempo de Execucao: 0.4431803226470947
+Precision: 0.1 // Recall: 0.0625 // F1-Score: 0.07692307692307693
+
+Usuario: 5273
+Tempo de Execucao: 0.35979795455932617
+Precision: 0.1 // Recall: 0.16666666666666666 // F1-Score: 0.125
+
+Usuario: 12249
+Tempo de Execucao: 0.4775123596191406
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 7942
+Tempo de Execucao: 0.30373287200927734
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 7323
+Tempo de Execucao: 0.3574397563934326
+Precision: 0.1 // Recall: 0.2 // F1-Score: 0.13333333333333333
+
+Usuario: 57445
+Tempo de Execucao: 0.2989521026611328
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 26824
+Tempo de Execucao: 0.41898274421691895
+Precision: 0.3 // Recall: 0.2 // F1-Score: 0.24
+
+Usuario: 40915
+Tempo de Execucao: 0.2045128345489502
+Precision: 0.1 // Recall: 0.3333333333333333 // F1-Score: 0.15384615384615383
+
+Usuario: 45162
+Tempo de Execucao: 0.23412418365478516
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 24297
+Tempo de Execucao: 0.23587250709533691
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 52231
+Tempo de Execucao: 0.2542386054992676
+Precision: 0.1 // Recall: 0.5 // F1-Score: 0.16666666666666669
+
+Usuario: 46501
+Tempo de Execucao: 0.2358083724975586
+Precision: 0.1 // Recall: 1.0 // F1-Score: 0.18181818181818182
+
+Usuario: 32969
+Tempo de Execucao: 0.37871241569519043
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 20625
+Tempo de Execucao: 0.3499031066894531
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 47956
+Tempo de Execucao: 0.17325329780578613
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 21888
+Tempo de Execucao: 0.3331308364868164
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 3186
+Tempo de Execucao: 0.43152546882629395
+Precision: 0.3 // Recall: 0.25 // F1-Score: 0.2727272727272727
+
+Usuario: 46011
+Tempo de Execucao: 0.23529410362243652
+Precision: 0.3 // Recall: 0.6 // F1-Score: 0.4
+
+Usuario: 27375
+Tempo de Execucao: 0.40137147903442383
+Precision: 0.3 // Recall: 0.2727272727272727 // F1-Score: 0.28571428571428564
+
+Usuario: 20059
+Tempo de Execucao: 0.4176633358001709
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 34472
+Tempo de Execucao: 0.32295751571655273
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 20212
+Tempo de Execucao: 0.4085214138031006
+Precision: 0.4 // Recall: 0.23529411764705882 // F1-Score: 0.29629629629629634
+
+Usuario: 32627
+Tempo de Execucao: 0.33962464332580566
+Precision: 0.2 // Recall: 0.16666666666666666 // F1-Score: 0.1818181818181818
+
+Usuario: 9551
+Tempo de Execucao: 0.2805671691894531
+Precision: 0.0 // Recall: 0.0 // F1-Score: 0
+
+Usuario: 9746
+Tempo de Execucao: 0.3621861934661865
+Precision: 0.3 // Recall: 0.375 // F1-Score: 0.33333333333333326
+
+Usuario: 50686
+Tempo de Execucao: 0.245927095413208
+Precision: 0.5 // Recall: 0.7142857142857143 // F1-Score: 0.588235294117647
+
+Media de tempo de execucao: 0.33180272102355957
+Media da Precisao: 0.1402000000000001
+Media do Recall: 0.2810489232649707
+Media do F1-Score: 0.15233873835110723

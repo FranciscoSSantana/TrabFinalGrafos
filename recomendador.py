@@ -47,10 +47,6 @@ def passeioAleatorio(grafo: Grafo, verticeInicial: int, comprimento: int) -> lis
 
 # Interseções de passeios aleatórios
 def intersecaoPasseiosAleatorios(grafo: Grafo, verticeInicial: int, numPasseios: int, comprimento: int) -> dict[int, int]:
-    """
-    Realiza múltiplos passeios aleatórios e identifica interseções frequentes.
-    :return: Contagem de nós em interseções dos passeios.
-    """
     frequenciaVertices = {}
     for _ in range(numPasseios):
         passeio = passeioAleatorio(grafo, verticeInicial, comprimento)
